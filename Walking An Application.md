@@ -9,7 +9,7 @@
 ## 　ページソースの表示
 
 WEBサイトの表示中に右クリックをするとメニューに「ページソースの表示」からページソースを閲覧できる
-またURLの前に「view-source:」をつけることでページソースを閲覧することができる
+またURLの前に「view-source:」をつけることでページソースを閲覧することができる<br>
 例　view-source:https://www.google.com/
 
 ## inspector
